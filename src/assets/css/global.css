@@ -1,0 +1,27 @@
+html,body,#app{
+  height:100%;
+  margin: 0;
+  padding: 0;
+  min-width: 1366px;
+}
+.el-table .cell{
+  padding-right: 0;
+}
+.el-card{
+  margin-top: 25px;
+}
+.zk-table{
+  margin-top: 15px;
+}
+.el-cascader-menu{
+  height: 300px;
+}
+.el-steps{
+  margin: 15px 0;
+}
+.el-step_title{
+  font-size: 12px;
+}
+.ql-editor{
+  min-height: 300px;
+}
